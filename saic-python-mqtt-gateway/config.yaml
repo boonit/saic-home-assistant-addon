@@ -4,7 +4,7 @@ arch:
   - armv7
 description: "MQTT-Gateway for SAIC cars like MG5, ZS EV or Marvel R"
 name: "SAIC MQTT Gateway (Python)"
-image: "ghcr.io/boonit/saic-python-mqtt-gateway"
+image: "ghcr.io/boonit/saic-python-mqtt-gateway/saic-mqtt-gateway"
 url: "https://github.com/boonit/saic-home-assistant-addon"
 slug: "saic_python_mqtt_gateway"
 stage: "stable"
